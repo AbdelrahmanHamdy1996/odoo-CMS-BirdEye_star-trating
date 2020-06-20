@@ -1,0 +1,30 @@
+<odoo>
+    <template id="custom_para_with_a_redirect" name="birdeye">
+        <section>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 col-md-offset-3 mb16 mt16">
+                        <p class="text-center">
+                            <b>A Small Subtitle</b>
+                        </p>
+                        <p class="text-center">
+                            Choose a vibrant image and write an inspiring paragraph
+                            about it. It does not have to be long enough, but it should
+                            reinforce your image.
+                        </p>
+                        <p class="text-center">
+                            <a href="/contactus">Contact us</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </template>
+    <template id="adding_new_snippet_to_website_snippetsr" inherit_id="website.snippets" name="Place into building blocks bar">
+        <xpath expr="//div[@id='snippet_structure']" position="inside">
+            <div class="o_panel_body">
+                <t t-snippet="birdeye.custom_para_with_a_redirect" t-thumbnail="/birdeye/static/images/custom_para_with_a_redirect.jpeg"/>
+            </div>
+        </xpath>
+    </template>
+</odoo>
