@@ -1,0 +1,61 @@
+@import url(//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css);
+.checked {
+    color: gold;
+}
+aria-describedby{
+    color: black;
+}
+
+
+.fa-star {
+    font-size: 25px;
+
+}
+p.bh{
+    color: orange;
+    width: 16px;
+    height: 17px;
+    font-size:25px;
+    font-weight: 500;
+
+}
+p.gh{
+    color: orange;
+    width: 16px;
+    height: 17px;
+    font-size:25px;
+    font-weight: 500;
+
+}
+img.bimg{
+    float:left;
+    width: 75px;
+    height: 50px;
+
+}
+
+img.gimg{
+    float:left;
+    width: 50px;
+    height: 50px;
+
+}
+
+img.fimg{
+    float:left;
+    width: 50px;
+    height: 50px;
+
+}
+
+
+no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+
+  > .col,
+  > [class*="col-"] {
+    padding-right: 0;
+    padding-left: 0;
+  }
+}

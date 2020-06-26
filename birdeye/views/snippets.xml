@@ -1,30 +1,35 @@
 <odoo>
-    <template id="custom_para_with_a_redirect" name="birdeye">
-        <section>
+    <template id="birdeye_star_rating" name="birdeye">
+        <div class="s_rating row" data-name="Rating">
             <div class="container">
-                <div class="row">
-                    <div class="col-md-6 col-md-offset-3 mb16 mt16">
-                        <p class="text-center">
-                            <b>A Small Subtitle</b>
-                        </p>
-                        <p class="text-center">
-                            Choose a vibrant image and write an inspiring paragraph
-                            about it. It does not have to be long enough, but it should
-                            reinforce your image.
-                        </p>
-                        <p class="text-center">
-                            <a href="/contactus">Contact us</a>
-                        </p>
+                <div class="row no-gutters">
+                    <div class="row justify-content-around">
+
+                        <div class="col-sum-auto ">
+                            <img class="bimg" src="/birdeye/static/img/logo_square.png"/>
+                        </div>
+
+                        <div class="col-sum-auto align-self-center">
+                            <p class="bh">5</p>
+                        </div>
+                        <div class="col-sum-auto align-self-center">
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                        </div>
                     </div>
                 </div>
             </div>
-        </section>
+        </div>
+
+
     </template>
-    <template id="adding_new_snippet_to_website_snippetsr" inherit_id="website.snippets" name="Place into building blocks bar">
-        <xpath expr="//div[@id='snippet_structure']" position="inside">
-            <div class="o_panel_body">
-                <t t-snippet="birdeye.custom_para_with_a_redirect" t-thumbnail="/birdeye/static/images/custom_para_with_a_redirect.jpeg"/>
-            </div>
+    <template id="place_into_bar" inherit_id="website.snippets" name="Place into building blocks bar">
+        <xpath expr="//div[@id='snippet_structure']/div[@class='o_panel_body']" position="inside">
+            <t t-snippet="birdeye.birdeye_star_rating" t-thumbnail="/birdeye/static/img/logo_square.png"/>
+
         </xpath>
     </template>
 </odoo>

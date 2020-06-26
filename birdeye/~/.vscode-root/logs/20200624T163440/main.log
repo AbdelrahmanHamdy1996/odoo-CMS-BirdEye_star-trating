@@ -1,0 +1,15 @@
+[2020-06-24 16:34:40.610] [main] [info] update#setState idle
+[2020-06-24 16:35:10.612] [main] [info] update#setState checking for updates
+[2020-06-24 16:35:10.616] [main] [info] update#setState idle
+[2020-06-24 17:35:10.789] [main] [info] update#setState checking for updates
+[2020-06-24 17:35:10.899] [main] [info] update#setState idle
+[2020-06-24 18:35:10.969] [main] [info] update#setState checking for updates
+[2020-06-24 18:35:11.020] [main] [info] update#setState idle
+[2020-06-24 19:35:11.186] [main] [info] update#setState checking for updates
+[2020-06-24 19:35:11.249] [main] [info] update#setState idle
+[2020-06-24 20:35:11.398] [main] [info] update#setState checking for updates
+[2020-06-24 20:35:11.496] [main] [info] update#setState idle
+[2020-06-24 21:35:11.576] [main] [info] update#setState checking for updates
+[2020-06-24 21:35:11.640] [main] [info] update#setState idle
+[2020-06-24 22:03:27.181] [main] [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: editorFontInfo Length: 918
+[2020-06-24 22:03:28.853] [main] [error] Error: ENOENT: no such file or directory, unlink '/odoo/odoo-server/addons/birdeye/~/.vscode-root/User/globalStorage/state.vscdb'

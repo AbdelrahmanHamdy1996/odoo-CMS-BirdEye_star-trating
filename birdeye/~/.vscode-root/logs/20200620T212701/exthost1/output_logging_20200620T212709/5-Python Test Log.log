@@ -1,0 +1,57 @@
+python /root/.vscode/extensions/ms-python.python-2020.6.89148/pythonFiles/testing_tools/run_adapter.py discover pytest -- --rootdir /odoo/odoo-server/addons/birdeye -s views
+Test Discovery failed: 
+Error: Traceback (most recent call last):
+  File "/root/.vscode/extensions/ms-python.python-2020.6.89148/pythonFiles/testing_tools/run_adapter.py", line 17, in <module>
+    from testing_tools.adapter.__main__ import parse_args, main
+  File "/root/.vscode/extensions/ms-python.python-2020.6.89148/pythonFiles/testing_tools/adapter/__main__.py", line 9, in <module>
+    from . import pytest, report
+  File "/root/.vscode/extensions/ms-python.python-2020.6.89148/pythonFiles/testing_tools/adapter/pytest/__init__.py", line 7, in <module>
+    from ._discovery import discover
+  File "/root/.vscode/extensions/ms-python.python-2020.6.89148/pythonFiles/testing_tools/adapter/pytest/_discovery.py", line 8, in <module>
+    import pytest
+ModuleNotFoundError: No module named 'pytest'
+
+python /root/.vscode/extensions/ms-python.python-2020.6.89148/pythonFiles/testing_tools/run_adapter.py discover pytest -- --rootdir /odoo/odoo-server/addons/birdeye -s --cache-clear views
+Test Discovery failed: 
+Error: Traceback (most recent call last):
+  File "/root/.vscode/extensions/ms-python.python-2020.6.89148/pythonFiles/testing_tools/run_adapter.py", line 17, in <module>
+    from testing_tools.adapter.__main__ import parse_args, main
+  File "/root/.vscode/extensions/ms-python.python-2020.6.89148/pythonFiles/testing_tools/adapter/__main__.py", line 9, in <module>
+    from . import pytest, report
+  File "/root/.vscode/extensions/ms-python.python-2020.6.89148/pythonFiles/testing_tools/adapter/pytest/__init__.py", line 7, in <module>
+    from ._discovery import discover
+  File "/root/.vscode/extensions/ms-python.python-2020.6.89148/pythonFiles/testing_tools/adapter/pytest/_discovery.py", line 8, in <module>
+    import pytest
+ModuleNotFoundError: No module named 'pytest'
+
+python /root/.vscode/extensions/ms-python.python-2020.6.89148/pythonFiles/testing_tools/run_adapter.py discover pytest -- --rootdir /odoo/odoo-server/addons/birdeye -s views
+============================= test session starts ==============================
+platform linux -- Python 3.8.2, pytest-5.4.3, py-1.8.2, pluggy-0.13.1
+rootdir: /odoo/odoo-server/addons/birdeye
+collected 0 items
+
+-------------- generated xml file: /tmp/tmp-6142sI8rOAO5QA3u.xml ---------------
+============================ no tests ran in 0.00s =============================
+python /root/.vscode/extensions/ms-python.python-2020.6.89148/pythonFiles/testing_tools/run_adapter.py discover pytest -- --rootdir /odoo/odoo-server/addons/birdeye -s views
+python /root/.vscode/extensions/ms-python.python-2020.6.89148/pythonFiles/testing_tools/run_adapter.py discover pytest -- --rootdir /odoo/odoo-server/addons/birdeye -s views
+python /root/.vscode/extensions/ms-python.python-2020.6.89148/pythonFiles/testing_tools/run_adapter.py discover pytest -- --rootdir /odoo/odoo-server/addons/birdeye -s views
+python /root/.vscode/extensions/ms-python.python-2020.6.89148/pythonFiles/testing_tools/run_adapter.py discover pytest -- --rootdir /odoo/odoo-server/addons/birdeye -s views
+python /root/.vscode/extensions/ms-python.python-2020.6.89148/pythonFiles/testing_tools/run_adapter.py discover pytest -- --rootdir /odoo/odoo-server/addons/birdeye -s views
+python /root/.vscode/extensions/ms-python.python-2020.6.89148/pythonFiles/testing_tools/run_adapter.py discover pytest -- --rootdir /odoo/odoo-server/addons/birdeye -s views
+python /root/.vscode/extensions/ms-python.python-2020.6.89148/pythonFiles/testing_tools/run_adapter.py discover pytest -- --rootdir /odoo/odoo-server/addons/birdeye -s views
+python /root/.vscode/extensions/ms-python.python-2020.6.89148/pythonFiles/testing_tools/run_adapter.py discover pytest -- --rootdir /odoo/odoo-server/addons/birdeye -s views
+python /root/.vscode/extensions/ms-python.python-2020.6.89148/pythonFiles/testing_tools/run_adapter.py discover pytest -- --rootdir /odoo/odoo-server/addons/birdeye -s views
+python /root/.vscode/extensions/ms-python.python-2020.6.89148/pythonFiles/testing_tools/run_adapter.py discover pytest -- --rootdir /odoo/odoo-server/addons/birdeye -s views
+python /root/.vscode/extensions/ms-python.python-2020.6.89148/pythonFiles/testing_tools/run_adapter.py discover pytest -- --rootdir /odoo/odoo-server/addons/birdeye -s views
+python /root/.vscode/extensions/ms-python.python-2020.6.89148/pythonFiles/testing_tools/run_adapter.py discover pytest -- --rootdir /odoo/odoo-server/addons/birdeye -s views
+python /root/.vscode/extensions/ms-python.python-2020.6.89148/pythonFiles/testing_tools/run_adapter.py discover pytest -- --rootdir /odoo/odoo-server/addons/birdeye -s views
+python /root/.vscode/extensions/ms-python.python-2020.6.89148/pythonFiles/testing_tools/run_adapter.py discover pytest -- --rootdir /odoo/odoo-server/addons/birdeye -s views
+python /root/.vscode/extensions/ms-python.python-2020.6.89148/pythonFiles/testing_tools/run_adapter.py discover pytest -- --rootdir /odoo/odoo-server/addons/birdeye -s views
+python /root/.vscode/extensions/ms-python.python-2020.6.89148/pythonFiles/testing_tools/run_adapter.py discover pytest -- --rootdir /odoo/odoo-server/addons/birdeye -s views
+python /root/.vscode/extensions/ms-python.python-2020.6.89148/pythonFiles/testing_tools/run_adapter.py discover pytest -- --rootdir /odoo/odoo-server/addons/birdeye -s views
+python /root/.vscode/extensions/ms-python.python-2020.6.89148/pythonFiles/testing_tools/run_adapter.py discover pytest -- --rootdir /odoo/odoo-server/addons/birdeye -s views
+python /root/.vscode/extensions/ms-python.python-2020.6.89148/pythonFiles/testing_tools/run_adapter.py discover pytest -- --rootdir /odoo/odoo-server/addons/birdeye -s views
+python /root/.vscode/extensions/ms-python.python-2020.6.89148/pythonFiles/testing_tools/run_adapter.py discover pytest -- --rootdir /odoo/odoo-server/addons/birdeye -s views
+python /root/.vscode/extensions/ms-python.python-2020.6.89148/pythonFiles/testing_tools/run_adapter.py discover pytest -- --rootdir /odoo/odoo-server/addons/birdeye -s views
+python /root/.vscode/extensions/ms-python.python-2020.6.89148/pythonFiles/testing_tools/run_adapter.py discover pytest -- --rootdir /odoo/odoo-server/addons/birdeye -s views
+python /root/.vscode/extensions/ms-python.python-2020.6.89148/pythonFiles/testing_tools/run_adapter.py discover pytest -- --rootdir /odoo/odoo-server/addons/birdeye -s views

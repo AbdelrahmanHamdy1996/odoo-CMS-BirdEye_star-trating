@@ -1,0 +1,35 @@
+<odoo>
+    <template id="google_star_rating" name="google">
+        <div class="s_rating row" data-name="Rating">
+            <div class="container">
+                <div class="row no-gutters">
+                    <div class="row justify-content-around">
+
+                        <div class="col-sum-auto ">
+                            <img class="gimg" src="/birdeye/static/img/Google-app-icon-small.png"/>
+                        </div>
+
+                        <div class="col-sum-auto align-self-center">
+                            <p class="gh">5</p>
+                        </div>
+                        <div class="col-sum-auto align-self-center">
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </template>
+    <template id="google_place_into_bar" inherit_id="website.snippets" name="Place into building blocks bar">
+        <xpath expr="//div[@id='snippet_structure']/div[@class='o_panel_body']" position="inside">
+            <t t-snippet="birdeye.google_star_rating" t-thumbnail="/birdeye/static/img/Google-app-icon-small.png"/>
+
+        </xpath>
+    </template>
+</odoo>

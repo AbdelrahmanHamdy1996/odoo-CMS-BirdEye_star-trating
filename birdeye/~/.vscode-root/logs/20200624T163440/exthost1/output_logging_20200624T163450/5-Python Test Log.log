@@ -1,0 +1,2 @@
+python /root/.vscode/extensions/ms-python.python-2020.6.89148/pythonFiles/testing_tools/run_adapter.py discover pytest -- --rootdir /odoo/odoo-server/addons/birdeye -s --cache-clear views
+python /root/.vscode/extensions/ms-python.python-2020.6.89148/pythonFiles/testing_tools/run_adapter.py discover pytest -- --rootdir /odoo/odoo-server/addons/birdeye -s views

@@ -1,0 +1,112 @@
+[2020-06-23 21:33:10.698] [exthost] [info] extension host started
+[2020-06-23 21:33:10.805] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2020-06-23 21:33:10.806] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-06-23 21:33:11.720] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments {"startup":false,"extensionId":{"value":"aaron-bond.better-comments","_lower":"aaron-bond.better-comments"},"activationEvent":"onLanguage:javascript"}
+[2020-06-23 21:33:11.720] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/aaron-bond.better-comments-2.0.5/out/extension
+[2020-06-23 21:33:12.511] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.vscode-typescript-tslint-plugin {"startup":false,"extensionId":{"value":"ms-vscode.vscode-typescript-tslint-plugin","_lower":"ms-vscode.vscode-typescript-tslint-plugin"},"activationEvent":"onLanguage:javascript"}
+[2020-06-23 21:33:12.511] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/ms-vscode.vscode-typescript-tslint-plugin-1.2.3/out/index.js
+[2020-06-23 21:33:13.324] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode {"startup":false,"extensionId":{"value":"VisualStudioExptTeam.vscodeintellicode","_lower":"visualstudioexptteam.vscodeintellicode"},"activationEvent":"onLanguage:javascript"}
+[2020-06-23 21:33:13.324] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.8/dist/intellicode
+[2020-06-23 21:33:13.890] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-06-23 21:33:13.890] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/35/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-06-23 21:33:13.897] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-06-23 21:33:13.897] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/35/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-06-23 21:33:13.922] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-06-23 21:33:13.922] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/35/usr/share/code/resources/app/extensions/git/dist/main
+[2020-06-23 21:33:14.009] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-06-23 21:33:14.009] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/35/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-06-23 21:33:14.056] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-06-23 21:33:14.056] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/35/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-06-23 21:33:14.083] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":true,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"*"}
+[2020-06-23 21:33:14.083] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/35/usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-06-23 21:33:14.106] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-06-23 21:33:14.106] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/35/usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-06-23 21:33:14.118] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2020-06-23 21:33:14.118] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2020-06-23 21:33:16.504] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-06-23 21:33:16.505] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/dbaeumer.vscode-eslint-2.1.5/client/out/extension
+[2020-06-23 21:33:16.606] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-06-23 21:33:16.606] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/esbenp.prettier-vscode-5.1.0/dist/extension
+[2020-06-23 21:33:17.351] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker {"startup":true,"extensionId":{"value":"streetsidesoftware.code-spell-checker","_lower":"streetsidesoftware.code-spell-checker"},"activationEvent":"*"}
+[2020-06-23 21:33:17.351] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/streetsidesoftware.code-spell-checker-1.9.0/dist/extension
+[2020-06-23 21:33:17.648] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2020-06-23 21:33:17.648] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/vscode-icons-team.vscode-icons-10.1.1/dist/src/vscode-icons.bundle.js
+[2020-06-23 21:33:28.787] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-06-23 21:33:28.788] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/35/usr/share/code/resources/app/extensions/github/dist/extension.js
+[2020-06-23 21:33:28.848] [exthost] [info] eager extensions activated
+[2020-06-23 21:34:15.686] [exthost] [info] ExtensionService#_doActivateExtension DotJoshJohnson.xml {"startup":false,"extensionId":{"value":"DotJoshJohnson.xml","_lower":"dotjoshjohnson.xml"},"activationEvent":"onLanguage:xml"}
+[2020-06-23 21:34:15.686] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/dotjoshjohnson.xml-2.5.0/out/extension
+[2020-06-23 21:45:15.095] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:css"}
+[2020-06-23 21:45:15.095] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/35/usr/share/code/resources/app/extensions/css-language-features/client/dist/node/cssClientMain
+[2020-06-23 21:48:14.322] [exthost] [error] [DotJoshJohnson.xml] provider FAILED
+[2020-06-23 21:48:14.323] [exthost] [error] RangeError: Invalid count value
+	at String.repeat (<anonymous>)
+	at V2XmlFormatter._getIndent (/root/.vscode/extensions/dotjoshjohnson.xml-2.5.0/out/formatting/formatters/v2-xml-formatter.js:208:106)
+	at V2XmlFormatter.formatXml (/root/.vscode/extensions/dotjoshjohnson.xml-2.5.0/out/formatting/formatters/v2-xml-formatter.js:169:39)
+	at XmlFormattingEditProvider.provideDocumentRangeFormattingEdits (/root/.vscode/extensions/dotjoshjohnson.xml-2.5.0/out/formatting/xml-formatting-edit-provider.js:39:41)
+	at XmlFormattingEditProvider.provideDocumentFormattingEdits (/root/.vscode/extensions/dotjoshjohnson.xml-2.5.0/out/formatting/xml-formatting-edit-provider.js:12:21)
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:681:526
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:136
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:108)
+	at P.provideDocumentFormattingEdits (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:681:497)
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:701:285
+	at e._withAdapter (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:695:632)
+	at e.$provideDocumentFormattingEdits (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:701:263)
+	at e._doInvokeHandler (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:804:1013)
+	at e._invokeHandler (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:804:705)
+	at e._receiveRequest (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:803:293)
+	at e._receiveOneMessage (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:802:156)
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:800:416
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at v.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:274)
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:975:649
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at v.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:274)
+	at t.PersistentProtocol._receiveMessage (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:243:629)
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:824
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at p.acceptChunk (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:236:737)
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:236:89
+	at Socket.t (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:245:185)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-06-23 21:48:19.523] [exthost] [error] [DotJoshJohnson.xml] provider FAILED
+[2020-06-23 21:48:19.524] [exthost] [error] RangeError: Invalid count value
+	at String.repeat (<anonymous>)
+	at V2XmlFormatter._getIndent (/root/.vscode/extensions/dotjoshjohnson.xml-2.5.0/out/formatting/formatters/v2-xml-formatter.js:208:106)
+	at V2XmlFormatter.formatXml (/root/.vscode/extensions/dotjoshjohnson.xml-2.5.0/out/formatting/formatters/v2-xml-formatter.js:169:39)
+	at XmlFormattingEditProvider.provideDocumentRangeFormattingEdits (/root/.vscode/extensions/dotjoshjohnson.xml-2.5.0/out/formatting/xml-formatting-edit-provider.js:39:41)
+	at XmlFormattingEditProvider.provideDocumentFormattingEdits (/root/.vscode/extensions/dotjoshjohnson.xml-2.5.0/out/formatting/xml-formatting-edit-provider.js:12:21)
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:681:526
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:136
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:108)
+	at P.provideDocumentFormattingEdits (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:681:497)
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:701:285
+	at e._withAdapter (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:695:632)
+	at e.$provideDocumentFormattingEdits (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:701:263)
+	at e._doInvokeHandler (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:804:1013)
+	at e._invokeHandler (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:804:705)
+	at e._receiveRequest (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:803:293)
+	at e._receiveOneMessage (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:802:156)
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:800:416
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at v.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:274)
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:975:649
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at v.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:274)
+	at t.PersistentProtocol._receiveMessage (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:243:629)
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:824
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at p.acceptChunk (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:236:737)
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:236:89
+	at Socket.t (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:245:185)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)

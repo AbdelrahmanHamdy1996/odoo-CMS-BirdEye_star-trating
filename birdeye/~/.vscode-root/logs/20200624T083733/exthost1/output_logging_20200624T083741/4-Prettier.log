@@ -1,0 +1,256 @@
+["INFO" - 8:37:41 AM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 8:37:41 AM] Extension Version: 5.1.0.
+["INFO" - 8:37:41 AM] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 8:37:41 AM] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 8:40:10 AM] Formatting /odoo/odoo-server/addons/birdeye/static/src/scss/style.scss
+["INFO" - 8:40:10 AM] Using ignore file (if present) at /odoo/odoo-server/addons/birdeye/.prettierignore
+["INFO" - 8:40:10 AM] Using bundled version of prettier.
+["INFO" - 8:40:10 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "scss"
+}
+["INFO" - 8:40:10 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:40:10 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/odoo/odoo-server/addons/birdeye/static/src/scss/style.scss",
+  "parser": "scss"
+}
+["INFO" - 8:40:10 AM] Formatting completed in 159.82872ms.
+["INFO" - 8:40:10 AM] Formatting /odoo/odoo-server/addons/birdeye/static/src/scss/style.scss
+["INFO" - 8:40:10 AM] Using ignore file (if present) at /odoo/odoo-server/addons/birdeye/.prettierignore
+["INFO" - 8:40:10 AM] Using bundled version of prettier.
+["INFO" - 8:40:10 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "scss"
+}
+["INFO" - 8:40:10 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:40:10 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/odoo/odoo-server/addons/birdeye/static/src/scss/style.scss",
+  "parser": "scss"
+}
+["INFO" - 8:40:10 AM] Formatting completed in 30.035261ms.
+["INFO" - 8:40:10 AM] Formatting /odoo/odoo-server/addons/birdeye/static/src/scss/style.scss
+["INFO" - 8:40:10 AM] Using ignore file (if present) at /odoo/odoo-server/addons/birdeye/.prettierignore
+["INFO" - 8:40:10 AM] Using bundled version of prettier.
+["INFO" - 8:40:10 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "scss"
+}
+["INFO" - 8:40:10 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:40:10 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/odoo/odoo-server/addons/birdeye/static/src/scss/style.scss",
+  "parser": "scss"
+}
+["INFO" - 8:40:10 AM] Formatting completed in 32.546898ms.
+["INFO" - 8:40:11 AM] Formatting /odoo/odoo-server/addons/birdeye/static/src/scss/style.scss
+["INFO" - 8:40:11 AM] Using ignore file (if present) at /odoo/odoo-server/addons/birdeye/.prettierignore
+["INFO" - 8:40:11 AM] Using bundled version of prettier.
+["INFO" - 8:40:11 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "scss"
+}
+["INFO" - 8:40:11 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:40:11 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/odoo/odoo-server/addons/birdeye/static/src/scss/style.scss",
+  "parser": "scss"
+}
+["INFO" - 8:40:11 AM] Formatting completed in 12.375082ms.
+["INFO" - 8:40:12 AM] Formatting /odoo/odoo-server/addons/birdeye/static/src/scss/style.scss
+["INFO" - 8:40:12 AM] Using ignore file (if present) at /odoo/odoo-server/addons/birdeye/.prettierignore
+["INFO" - 8:40:12 AM] Using bundled version of prettier.
+["INFO" - 8:40:12 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "scss"
+}
+["INFO" - 8:40:12 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:40:12 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/odoo/odoo-server/addons/birdeye/static/src/scss/style.scss",
+  "parser": "scss"
+}
+["INFO" - 8:40:12 AM] Formatting completed in 40.071575ms.
+["INFO" - 8:40:12 AM] Formatting /odoo/odoo-server/addons/birdeye/static/src/scss/style.scss
+["INFO" - 8:40:12 AM] Using ignore file (if present) at /odoo/odoo-server/addons/birdeye/.prettierignore
+["INFO" - 8:40:12 AM] Using bundled version of prettier.
+["INFO" - 8:40:12 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "scss"
+}
+["INFO" - 8:40:12 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:40:12 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/odoo/odoo-server/addons/birdeye/static/src/scss/style.scss",
+  "parser": "scss"
+}
+["INFO" - 8:40:12 AM] Formatting completed in 57.596888ms.
+["INFO" - 8:40:12 AM] Formatting /odoo/odoo-server/addons/birdeye/static/src/scss/style.scss
+["INFO" - 8:40:12 AM] Using ignore file (if present) at /odoo/odoo-server/addons/birdeye/.prettierignore
+["INFO" - 8:40:12 AM] Using bundled version of prettier.
+["INFO" - 8:40:12 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "scss"
+}
+["INFO" - 8:40:12 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:40:12 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/odoo/odoo-server/addons/birdeye/static/src/scss/style.scss",
+  "parser": "scss"
+}
+["INFO" - 8:40:12 AM] Formatting completed in 57.382ms.

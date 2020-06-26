@@ -1,0 +1,23 @@
+<odoo>
+    <data>
+    <!--
+        <record model="ir.ui.view" id="module_form_inherit">
+            <field name="name">Birdeye API Key</field>
+            <field name="model">ir.module.module</field>
+            <field name="inherit_id" ref="base.module_form"/>
+            <field name="arch" type="xml">
+            <field name="summary" position="after">
+                <field name="bID"/>
+                </field>
+
+            </field>
+        </record>
+
+        -->
+    </data>
+</odoo>
+
+
+
+
+

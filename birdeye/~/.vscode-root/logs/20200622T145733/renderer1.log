@@ -1,0 +1,1094 @@
+[2020-06-22 14:57:49.571] [renderer1] [warning] UNRESPONSIVE extension host, 'CoenraadS.bracket-pair-colorizer' took 100% of 592.715ms, saved PROFILE here: '/tmp/exthost-6bcc28.cpuprofile' [{"id":"CoenraadS.bracket-pair-colorizer","total":592492,"percentage":100}]
+[2020-06-22 17:38:56.614] [renderer1] [error] <syntax> TypeScript Server Error (3.9.4)
+Debug Failure. False expression: Expected line to be non-zero
+Error: Debug Failure. False expression: Expected line to be non-zero
+    at failIfInvalidLocation (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142416:22)
+    at ScriptInfo.positionToLineOffset (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142389:17)
+    at toProtocolTextSpan (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149600:35)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:68
+    at Array.map (<anonymous>)
+    at IOSession.Session.toLocationNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:39)
+    at IOSession.Session.getNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149141:32)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147984:61)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:88
+    at IOSession.Session.executeWithRequestId (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149517:28)
+    at IOSession.Session.executeCommand (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:33)
+    at IOSession.Session.onMessage (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149550:35)
+    at Interface.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150866:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17): Error: <syntax> TypeScript Server Error (3.9.4)
+Debug Failure. False expression: Expected line to be non-zero
+Error: Debug Failure. False expression: Expected line to be non-zero
+    at failIfInvalidLocation (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142416:22)
+    at ScriptInfo.positionToLineOffset (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142389:17)
+    at toProtocolTextSpan (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149600:35)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:68
+    at Array.map (<anonymous>)
+    at IOSession.Session.toLocationNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:39)
+    at IOSession.Session.getNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149141:32)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147984:61)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:88
+    at IOSession.Session.executeWithRequestId (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149517:28)
+    at IOSession.Session.executeCommand (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:33)
+    at IOSession.Session.onMessage (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149550:35)
+    at Interface.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150866:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:54700)
+	at e.dispatchResponse (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:226420)
+	at e.dispatchMessage (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:225338)
+	at /snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:224814
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at t.Reader.onLengthData (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233476)
+	at Socket.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233124)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-06-22 17:59:00.205] [renderer1] [error] <syntax> TypeScript Server Error (3.9.4)
+Debug Failure. False expression: Expected line to be non-zero
+Error: Debug Failure. False expression: Expected line to be non-zero
+    at failIfInvalidLocation (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142416:22)
+    at ScriptInfo.positionToLineOffset (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142389:17)
+    at toProtocolTextSpan (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149600:35)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:68
+    at Array.map (<anonymous>)
+    at IOSession.Session.toLocationNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:39)
+    at IOSession.Session.getNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149141:32)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147984:61)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:88
+    at IOSession.Session.executeWithRequestId (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149517:28)
+    at IOSession.Session.executeCommand (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:33)
+    at IOSession.Session.onMessage (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149550:35)
+    at Interface.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150866:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17): Error: <syntax> TypeScript Server Error (3.9.4)
+Debug Failure. False expression: Expected line to be non-zero
+Error: Debug Failure. False expression: Expected line to be non-zero
+    at failIfInvalidLocation (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142416:22)
+    at ScriptInfo.positionToLineOffset (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142389:17)
+    at toProtocolTextSpan (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149600:35)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:68
+    at Array.map (<anonymous>)
+    at IOSession.Session.toLocationNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:39)
+    at IOSession.Session.getNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149141:32)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147984:61)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:88
+    at IOSession.Session.executeWithRequestId (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149517:28)
+    at IOSession.Session.executeCommand (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:33)
+    at IOSession.Session.onMessage (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149550:35)
+    at Interface.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150866:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:54700)
+	at e.dispatchResponse (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:226420)
+	at e.dispatchMessage (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:225338)
+	at /snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:224814
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at t.Reader.onLengthData (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233476)
+	at Socket.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233124)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-06-22 18:15:15.690] [renderer1] [error] <syntax> TypeScript Server Error (3.9.4)
+Debug Failure. False expression: Expected line to be non-zero
+Error: Debug Failure. False expression: Expected line to be non-zero
+    at failIfInvalidLocation (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142416:22)
+    at ScriptInfo.positionToLineOffset (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142389:17)
+    at toProtocolTextSpan (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149600:35)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:68
+    at Array.map (<anonymous>)
+    at IOSession.Session.toLocationNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:39)
+    at IOSession.Session.getNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149141:32)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147984:61)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:88
+    at IOSession.Session.executeWithRequestId (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149517:28)
+    at IOSession.Session.executeCommand (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:33)
+    at IOSession.Session.onMessage (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149550:35)
+    at Interface.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150866:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17): Error: <syntax> TypeScript Server Error (3.9.4)
+Debug Failure. False expression: Expected line to be non-zero
+Error: Debug Failure. False expression: Expected line to be non-zero
+    at failIfInvalidLocation (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142416:22)
+    at ScriptInfo.positionToLineOffset (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142389:17)
+    at toProtocolTextSpan (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149600:35)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:68
+    at Array.map (<anonymous>)
+    at IOSession.Session.toLocationNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:39)
+    at IOSession.Session.getNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149141:32)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147984:61)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:88
+    at IOSession.Session.executeWithRequestId (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149517:28)
+    at IOSession.Session.executeCommand (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:33)
+    at IOSession.Session.onMessage (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149550:35)
+    at Interface.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150866:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:54700)
+	at e.dispatchResponse (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:226420)
+	at e.dispatchMessage (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:225338)
+	at /snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:224814
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at t.Reader.onLengthData (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233476)
+	at Socket.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233124)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-06-22 20:58:08.504] [renderer1] [error] <syntax> TypeScript Server Error (3.9.4)
+Debug Failure. False expression: Expected line to be non-zero
+Error: Debug Failure. False expression: Expected line to be non-zero
+    at failIfInvalidLocation (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142416:22)
+    at ScriptInfo.positionToLineOffset (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142389:17)
+    at toProtocolTextSpan (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149600:35)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:68
+    at Array.map (<anonymous>)
+    at IOSession.Session.toLocationNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:39)
+    at IOSession.Session.getNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149141:32)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147984:61)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:88
+    at IOSession.Session.executeWithRequestId (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149517:28)
+    at IOSession.Session.executeCommand (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:33)
+    at IOSession.Session.onMessage (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149550:35)
+    at Interface.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150866:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17): Error: <syntax> TypeScript Server Error (3.9.4)
+Debug Failure. False expression: Expected line to be non-zero
+Error: Debug Failure. False expression: Expected line to be non-zero
+    at failIfInvalidLocation (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142416:22)
+    at ScriptInfo.positionToLineOffset (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142389:17)
+    at toProtocolTextSpan (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149600:35)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:68
+    at Array.map (<anonymous>)
+    at IOSession.Session.toLocationNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:39)
+    at IOSession.Session.getNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149141:32)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147984:61)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:88
+    at IOSession.Session.executeWithRequestId (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149517:28)
+    at IOSession.Session.executeCommand (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:33)
+    at IOSession.Session.onMessage (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149550:35)
+    at Interface.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150866:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:54700)
+	at e.dispatchResponse (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:226420)
+	at e.dispatchMessage (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:225338)
+	at /snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:224814
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at t.Reader.onLengthData (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233476)
+	at Socket.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233124)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-06-22 21:15:06.042] [renderer1] [warning] {}
+[2020-06-22 21:15:08.587] [renderer1] [warning] UNRESPONSIVE extension host, 'streetsidesoftware.code-spell-checker' took 63% of 1115.035ms, saved PROFILE here: '/tmp/exthost-672dce.cpuprofile' [{"id":"aaron-bond.better-comments","total":160,"percentage":0},{"id":"CoenraadS.bracket-pair-colorizer","total":1111,"percentage":0},{"id":"dbaeumer.vscode-eslint","total":450,"percentage":0},{"id":"DotJoshJohnson.xml","total":7633,"percentage":1},{"id":"gc","total":132380,"percentage":12},{"id":"ms-python.python","total":91816,"percentage":8},{"id":"program","total":115342,"percentage":10},{"id":"self","total":27605,"percentage":2},{"id":"streetsidesoftware.code-spell-checker","total":706799,"percentage":63},{"id":"vscode.git","total":29814,"percentage":3},{"id":"vscode.merge-conflict","total":985,"percentage":0},{"id":"vscode.typescript-language-features","total":659,"percentage":0}]
+[2020-06-22 21:30:28.324] [renderer1] [error] <syntax> TypeScript Server Error (3.9.4)
+Debug Failure. False expression: Expected line to be non-zero
+Error: Debug Failure. False expression: Expected line to be non-zero
+    at failIfInvalidLocation (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142416:22)
+    at ScriptInfo.positionToLineOffset (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142389:17)
+    at toProtocolTextSpan (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149600:35)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:68
+    at Array.map (<anonymous>)
+    at IOSession.Session.toLocationNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:39)
+    at IOSession.Session.getNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149141:32)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147984:61)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:88
+    at IOSession.Session.executeWithRequestId (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149517:28)
+    at IOSession.Session.executeCommand (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:33)
+    at IOSession.Session.onMessage (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149550:35)
+    at Interface.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150866:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17): Error: <syntax> TypeScript Server Error (3.9.4)
+Debug Failure. False expression: Expected line to be non-zero
+Error: Debug Failure. False expression: Expected line to be non-zero
+    at failIfInvalidLocation (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142416:22)
+    at ScriptInfo.positionToLineOffset (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142389:17)
+    at toProtocolTextSpan (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149600:35)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:68
+    at Array.map (<anonymous>)
+    at IOSession.Session.toLocationNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:39)
+    at IOSession.Session.getNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149141:32)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147984:61)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:88
+    at IOSession.Session.executeWithRequestId (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149517:28)
+    at IOSession.Session.executeCommand (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:33)
+    at IOSession.Session.onMessage (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149550:35)
+    at Interface.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150866:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:54700)
+	at e.dispatchResponse (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:226420)
+	at e.dispatchMessage (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:225338)
+	at /snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:224814
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at t.Reader.onLengthData (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233476)
+	at Socket.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233124)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-06-22 21:54:44.527] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-22 21:54:46.022] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-22 22:38:47.352] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-22 22:38:57.809] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-22 22:38:59.879] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-22 22:39:14.616] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-22 22:46:30.795] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-22 22:48:23.221] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-22 22:48:29.513] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-22 22:51:56.178] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-22 23:10:53.744] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-23 00:06:27.453] [renderer1] [error] <syntax> TypeScript Server Error (3.9.4)
+Debug Failure. False expression: Expected line to be non-zero
+Error: Debug Failure. False expression: Expected line to be non-zero
+    at failIfInvalidLocation (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142416:22)
+    at ScriptInfo.positionToLineOffset (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142389:17)
+    at toProtocolTextSpan (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149600:35)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:68
+    at Array.map (<anonymous>)
+    at IOSession.Session.toLocationNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:39)
+    at IOSession.Session.getNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149141:32)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147984:61)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:88
+    at IOSession.Session.executeWithRequestId (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149517:28)
+    at IOSession.Session.executeCommand (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:33)
+    at IOSession.Session.onMessage (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149550:35)
+    at Interface.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150866:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17): Error: <syntax> TypeScript Server Error (3.9.4)
+Debug Failure. False expression: Expected line to be non-zero
+Error: Debug Failure. False expression: Expected line to be non-zero
+    at failIfInvalidLocation (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142416:22)
+    at ScriptInfo.positionToLineOffset (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142389:17)
+    at toProtocolTextSpan (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149600:35)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:68
+    at Array.map (<anonymous>)
+    at IOSession.Session.toLocationNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:39)
+    at IOSession.Session.getNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149141:32)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147984:61)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:88
+    at IOSession.Session.executeWithRequestId (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149517:28)
+    at IOSession.Session.executeCommand (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:33)
+    at IOSession.Session.onMessage (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149550:35)
+    at Interface.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150866:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:54700)
+	at e.dispatchResponse (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:226420)
+	at e.dispatchMessage (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:225338)
+	at /snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:224814
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at t.Reader.onLengthData (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233476)
+	at Socket.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233124)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-06-23 00:06:36.816] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-23 00:07:39.540] [renderer1] [error] <syntax> TypeScript Server Error (3.9.4)
+Debug Failure. False expression: Expected line to be non-zero
+Error: Debug Failure. False expression: Expected line to be non-zero
+    at failIfInvalidLocation (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142416:22)
+    at ScriptInfo.positionToLineOffset (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142389:17)
+    at toProtocolTextSpan (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149600:35)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:68
+    at Array.map (<anonymous>)
+    at IOSession.Session.toLocationNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:39)
+    at IOSession.Session.getNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149141:32)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147984:61)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:88
+    at IOSession.Session.executeWithRequestId (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149517:28)
+    at IOSession.Session.executeCommand (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:33)
+    at IOSession.Session.onMessage (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149550:35)
+    at Interface.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150866:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17): Error: <syntax> TypeScript Server Error (3.9.4)
+Debug Failure. False expression: Expected line to be non-zero
+Error: Debug Failure. False expression: Expected line to be non-zero
+    at failIfInvalidLocation (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142416:22)
+    at ScriptInfo.positionToLineOffset (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142389:17)
+    at toProtocolTextSpan (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149600:35)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:68
+    at Array.map (<anonymous>)
+    at IOSession.Session.toLocationNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:39)
+    at IOSession.Session.getNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149141:32)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147984:61)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:88
+    at IOSession.Session.executeWithRequestId (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149517:28)
+    at IOSession.Session.executeCommand (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:33)
+    at IOSession.Session.onMessage (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149550:35)
+    at Interface.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150866:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:54700)
+	at e.dispatchResponse (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:226420)
+	at e.dispatchMessage (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:225338)
+	at /snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:224814
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at t.Reader.onLengthData (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233476)
+	at Socket.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233124)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-06-23 00:21:55.536] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-23 00:26:07.107] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-23 00:26:21.118] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-23 00:36:57.665] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-23 00:38:40.910] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-23 00:50:41.641] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-23 02:20:47.197] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-23 02:28:14.804] [renderer1] [error] <syntax> TypeScript Server Error (3.9.4)
+Debug Failure. False expression: Expected line to be non-zero
+Error: Debug Failure. False expression: Expected line to be non-zero
+    at failIfInvalidLocation (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142416:22)
+    at ScriptInfo.positionToLineOffset (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142389:17)
+    at toProtocolTextSpan (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149600:35)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:68
+    at Array.map (<anonymous>)
+    at IOSession.Session.toLocationNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:39)
+    at IOSession.Session.getNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149141:32)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147984:61)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:88
+    at IOSession.Session.executeWithRequestId (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149517:28)
+    at IOSession.Session.executeCommand (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:33)
+    at IOSession.Session.onMessage (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149550:35)
+    at Interface.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150866:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17): Error: <syntax> TypeScript Server Error (3.9.4)
+Debug Failure. False expression: Expected line to be non-zero
+Error: Debug Failure. False expression: Expected line to be non-zero
+    at failIfInvalidLocation (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142416:22)
+    at ScriptInfo.positionToLineOffset (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142389:17)
+    at toProtocolTextSpan (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149600:35)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:68
+    at Array.map (<anonymous>)
+    at IOSession.Session.toLocationNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:39)
+    at IOSession.Session.getNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149141:32)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147984:61)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:88
+    at IOSession.Session.executeWithRequestId (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149517:28)
+    at IOSession.Session.executeCommand (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:33)
+    at IOSession.Session.onMessage (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149550:35)
+    at Interface.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150866:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:54700)
+	at e.dispatchResponse (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:226420)
+	at e.dispatchMessage (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:225338)
+	at /snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:224814
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at t.Reader.onLengthData (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233476)
+	at Socket.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233124)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-06-23 02:32:18.887] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-23 02:32:26.007] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-23 02:34:02.145] [renderer1] [error] <syntax> TypeScript Server Error (3.9.4)
+Debug Failure. False expression: Expected line to be non-zero
+Error: Debug Failure. False expression: Expected line to be non-zero
+    at failIfInvalidLocation (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142416:22)
+    at ScriptInfo.positionToLineOffset (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142389:17)
+    at toProtocolTextSpan (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149600:35)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:68
+    at Array.map (<anonymous>)
+    at IOSession.Session.toLocationNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:39)
+    at IOSession.Session.getNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149141:32)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147984:61)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:88
+    at IOSession.Session.executeWithRequestId (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149517:28)
+    at IOSession.Session.executeCommand (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:33)
+    at IOSession.Session.onMessage (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149550:35)
+    at Interface.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150866:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17): Error: <syntax> TypeScript Server Error (3.9.4)
+Debug Failure. False expression: Expected line to be non-zero
+Error: Debug Failure. False expression: Expected line to be non-zero
+    at failIfInvalidLocation (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142416:22)
+    at ScriptInfo.positionToLineOffset (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142389:17)
+    at toProtocolTextSpan (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149600:35)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:68
+    at Array.map (<anonymous>)
+    at IOSession.Session.toLocationNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:39)
+    at IOSession.Session.getNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149141:32)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147984:61)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:88
+    at IOSession.Session.executeWithRequestId (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149517:28)
+    at IOSession.Session.executeCommand (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:33)
+    at IOSession.Session.onMessage (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149550:35)
+    at Interface.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150866:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:54700)
+	at e.dispatchResponse (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:226420)
+	at e.dispatchMessage (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:225338)
+	at /snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:224814
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at t.Reader.onLengthData (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233476)
+	at Socket.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233124)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-06-23 02:34:10.301] [renderer1] [error] <syntax> TypeScript Server Error (3.9.4)
+Debug Failure. False expression: Expected line to be non-zero
+Error: Debug Failure. False expression: Expected line to be non-zero
+    at failIfInvalidLocation (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142416:22)
+    at ScriptInfo.positionToLineOffset (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142389:17)
+    at toProtocolTextSpan (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149600:35)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:68
+    at Array.map (<anonymous>)
+    at IOSession.Session.toLocationNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:39)
+    at IOSession.Session.getNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149141:32)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147984:61)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:88
+    at IOSession.Session.executeWithRequestId (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149517:28)
+    at IOSession.Session.executeCommand (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:33)
+    at IOSession.Session.onMessage (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149550:35)
+    at Interface.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150866:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17): Error: <syntax> TypeScript Server Error (3.9.4)
+Debug Failure. False expression: Expected line to be non-zero
+Error: Debug Failure. False expression: Expected line to be non-zero
+    at failIfInvalidLocation (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142416:22)
+    at ScriptInfo.positionToLineOffset (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142389:17)
+    at toProtocolTextSpan (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149600:35)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:68
+    at Array.map (<anonymous>)
+    at IOSession.Session.toLocationNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:39)
+    at IOSession.Session.getNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149141:32)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147984:61)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:88
+    at IOSession.Session.executeWithRequestId (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149517:28)
+    at IOSession.Session.executeCommand (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:33)
+    at IOSession.Session.onMessage (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149550:35)
+    at Interface.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150866:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:54700)
+	at e.dispatchResponse (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:226420)
+	at e.dispatchMessage (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:225338)
+	at /snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:224814
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at t.Reader.onLengthData (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233476)
+	at Socket.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233124)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-06-23 04:29:17.487] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-23 04:30:21.730] [renderer1] [error] <syntax> TypeScript Server Error (3.9.4)
+Debug Failure. False expression: Expected line to be non-zero
+Error: Debug Failure. False expression: Expected line to be non-zero
+    at failIfInvalidLocation (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142416:22)
+    at ScriptInfo.positionToLineOffset (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142389:17)
+    at toProtocolTextSpan (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149600:35)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:68
+    at Array.map (<anonymous>)
+    at IOSession.Session.toLocationNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:39)
+    at IOSession.Session.getNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149141:32)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147984:61)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:88
+    at IOSession.Session.executeWithRequestId (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149517:28)
+    at IOSession.Session.executeCommand (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:33)
+    at IOSession.Session.onMessage (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149550:35)
+    at Interface.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150866:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17): Error: <syntax> TypeScript Server Error (3.9.4)
+Debug Failure. False expression: Expected line to be non-zero
+Error: Debug Failure. False expression: Expected line to be non-zero
+    at failIfInvalidLocation (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142416:22)
+    at ScriptInfo.positionToLineOffset (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142389:17)
+    at toProtocolTextSpan (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149600:35)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:68
+    at Array.map (<anonymous>)
+    at IOSession.Session.toLocationNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:39)
+    at IOSession.Session.getNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149141:32)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147984:61)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:88
+    at IOSession.Session.executeWithRequestId (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149517:28)
+    at IOSession.Session.executeCommand (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:33)
+    at IOSession.Session.onMessage (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149550:35)
+    at Interface.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150866:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:54700)
+	at e.dispatchResponse (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:226420)
+	at e.dispatchMessage (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:225338)
+	at /snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:224814
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at t.Reader.onLengthData (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233476)
+	at Socket.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233124)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-06-23 04:30:43.981] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-23 04:54:24.235] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-23 04:59:42.597] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-23 05:11:06.548] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-23 05:35:50.415] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-23 06:11:59.267] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)

@@ -1,0 +1,15 @@
+[Info  - 4:04:42 PM] Analysis cache path: /root/.cache/Microsoft/Python Language Server
+[Info  - 4:04:42 PM] Microsoft Python Language Server version 0.5.50.0
+[Info  - 4:04:42 PM] Workspace root: /odoo/odoo-server/addons/birdeye
+[Info  - 4:04:42 PM] GetCurrentSearchPaths /usr/bin/python3 
+[Info  - 4:04:42 PM] Interpreter search paths:
+[Info  - 4:04:42 PM]     /usr/lib/python3.8
+[Info  - 4:04:42 PM]     /usr/lib/python3.8/lib-dynload
+[Info  - 4:04:42 PM]     /root/.local/lib/python3.8/site-packages
+[Info  - 4:04:42 PM]     /usr/local/lib/python3.8/dist-packages
+[Info  - 4:04:42 PM]     /usr/lib/python3/dist-packages
+[Info  - 4:04:42 PM] User search paths:
+[Info  - 4:04:43 PM] Initializing for /usr/bin/python3
+[Info  - 4:04:43 PM] Analysis caching mode: None.
+[Info  - 4:56:23 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 4:56:23 PM] Deep learning IntelliCode recommendations service returned in 33 millis

@@ -1,0 +1,410 @@
+[2020-06-24 16:34:50.413] [renderer1] [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file '/odoo/odoo-server/addons/birdeye/__manifest__.py' (Error: File Modified Since) file:///odoo/odoo-server/addons/birdeye/__manifest__.py
+[2020-06-24 16:34:51.033] [renderer1] [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file '/odoo/odoo-server/addons/birdeye/__manifest__.py' (Error: File Modified Since) file:///odoo/odoo-server/addons/birdeye/__manifest__.py
+[2020-06-24 16:34:52.082] [renderer1] [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file '/odoo/odoo-server/addons/birdeye/__manifest__.py' (Error: File Modified Since) file:///odoo/odoo-server/addons/birdeye/__manifest__.py
+[2020-06-24 20:54:02.054] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-24 20:54:08.009] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-24 20:54:16.604] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-24 20:55:26.917] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-24 21:08:24.179] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-24 21:10:19.183] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+    at async e.editorOpenHandler (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6973:846)
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6002:603)
+    at async file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6947:177
+[2020-06-24 21:10:59.864] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-24 21:11:02.313] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-24 21:11:03.526] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-24 21:22:12.681] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+    at async e.editorOpenHandler (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6973:846)
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6002:603)
+    at async file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6947:177
+[2020-06-24 21:24:57.867] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+    at async e.editorOpenHandler (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6973:846)
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6002:603)
+    at async file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6947:177
+[2020-06-24 21:25:20.884] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+    at async e.editorOpenHandler (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6973:846)
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6002:603)
+    at async file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6947:177
+[2020-06-24 21:28:37.499] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-24 21:33:56.625] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-24 21:34:01.227] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-24 21:36:00.576] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-24 21:36:03.400] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-24 21:36:07.928] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-24 21:36:29.491] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-24 21:36:44.878] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-24 21:36:47.195] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-24 21:39:44.058] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-24 21:39:45.272] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-24 21:41:12.564] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-24 21:41:56.752] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+    at async e.editorOpenHandler (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6973:846)
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6002:603)
+    at async file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6947:177
+[2020-06-24 21:43:38.663] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///snap/code/35/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+[2020-06-24 22:03:27.158] [renderer1] [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?),(?,?)). Details: Keys: lifecyle.lastShutdownReason, codelens/cache2 Length: 1569
+[2020-06-24 22:03:27.187] [renderer1] [error] A system error occurred (ENOENT: no such file or directory, unlink '/odoo/odoo-server/addons/birdeye/~/.vscode-root/User/workspaceStorage/b465b049163ab6c46b358f75f1c2c2a9/state.vscdb'): Error: ENOENT: no such file or directory, unlink '/odoo/odoo-server/addons/birdeye/~/.vscode-root/User/workspaceStorage/b465b049163ab6c46b358f75f1c2c2a9/state.vscdb'

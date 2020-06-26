@@ -1,0 +1,618 @@
+[2020-06-22 14:57:44.373] [exthost] [info] extension host started
+[2020-06-22 14:57:44.407] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments {"startup":false,"extensionId":{"value":"aaron-bond.better-comments","_lower":"aaron-bond.better-comments"},"activationEvent":"onLanguage:plaintext"}
+[2020-06-22 14:57:44.407] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/aaron-bond.better-comments-2.0.5/out/extension
+[2020-06-22 14:57:44.799] [exthost] [info] ExtensionService#_doActivateExtension DotJoshJohnson.xml {"startup":false,"extensionId":{"value":"DotJoshJohnson.xml","_lower":"dotjoshjohnson.xml"},"activationEvent":"onLanguage:xml"}
+[2020-06-22 14:57:44.800] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/dotjoshjohnson.xml-2.5.0/out/extension
+[2020-06-22 14:57:46.693] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-06-22 14:57:46.693] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/35/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-06-22 14:57:46.700] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-06-22 14:57:46.700] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/35/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-06-22 14:57:46.724] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-06-22 14:57:46.724] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/35/usr/share/code/resources/app/extensions/git/dist/main
+[2020-06-22 14:57:46.827] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-06-22 14:57:46.827] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/35/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-06-22 14:57:46.893] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-06-22 14:57:46.893] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/35/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-06-22 14:57:46.935] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":true,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"*"}
+[2020-06-22 14:57:46.936] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/35/usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-06-22 14:57:46.949] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-06-22 14:57:46.949] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/35/usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-06-22 14:57:46.953] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2020-06-22 14:57:46.953] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2020-06-22 14:57:47.220] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-06-22 14:57:47.220] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/dbaeumer.vscode-eslint-2.1.5/client/out/extension
+[2020-06-22 14:57:47.295] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-06-22 14:57:47.295] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/esbenp.prettier-vscode-5.1.0/dist/extension
+[2020-06-22 14:57:47.623] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker {"startup":true,"extensionId":{"value":"streetsidesoftware.code-spell-checker","_lower":"streetsidesoftware.code-spell-checker"},"activationEvent":"*"}
+[2020-06-22 14:57:47.623] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/streetsidesoftware.code-spell-checker-1.9.0/dist/extension
+[2020-06-22 14:57:47.813] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2020-06-22 14:57:47.813] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/vscode-icons-team.vscode-icons-10.1.1/dist/src/vscode-icons.bundle.js
+[2020-06-22 14:57:59.413] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-06-22 14:57:59.414] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/35/usr/share/code/resources/app/extensions/github/dist/extension.js
+[2020-06-22 14:57:59.466] [exthost] [info] eager extensions activated
+[2020-06-22 15:12:04.131] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-06-22 15:12:04.132] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/35/usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2020-06-22 15:12:04.280] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-06-22 15:12:04.280] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/35/usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2020-06-22 15:12:04.329] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-06-22 15:12:04.329] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-06-22 16:01:56.620] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:scss"}
+[2020-06-22 16:01:56.620] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/35/usr/share/code/resources/app/extensions/css-language-features/client/dist/node/cssClientMain
+[2020-06-22 16:12:44.626] [exthost] [error] [DotJoshJohnson.xml] provider FAILED
+[2020-06-22 16:12:44.627] [exthost] [error] RangeError: Invalid count value
+	at String.repeat (<anonymous>)
+	at V2XmlFormatter._getIndent (/root/.vscode/extensions/dotjoshjohnson.xml-2.5.0/out/formatting/formatters/v2-xml-formatter.js:208:106)
+	at V2XmlFormatter.formatXml (/root/.vscode/extensions/dotjoshjohnson.xml-2.5.0/out/formatting/formatters/v2-xml-formatter.js:169:39)
+	at XmlFormattingEditProvider.provideDocumentRangeFormattingEdits (/root/.vscode/extensions/dotjoshjohnson.xml-2.5.0/out/formatting/xml-formatting-edit-provider.js:39:41)
+	at XmlFormattingEditProvider.provideDocumentFormattingEdits (/root/.vscode/extensions/dotjoshjohnson.xml-2.5.0/out/formatting/xml-formatting-edit-provider.js:12:21)
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:681:526
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:136
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:108)
+	at P.provideDocumentFormattingEdits (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:681:497)
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:701:285
+	at e._withAdapter (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:695:632)
+	at e.$provideDocumentFormattingEdits (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:701:263)
+	at e._doInvokeHandler (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:804:1013)
+	at e._invokeHandler (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:804:705)
+	at e._receiveRequest (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:803:293)
+	at e._receiveOneMessage (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:802:156)
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:800:416
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at v.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:274)
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:975:649
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at v.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:274)
+	at t.PersistentProtocol._receiveMessage (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:243:629)
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:824
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at p.acceptChunk (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:236:737)
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:236:89
+	at Socket.t (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:245:185)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-06-22 16:19:17.407] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"extensionId":{"value":"vscode.python","_lower":"vscode.python"},"activationEvent":"onLanguage:python"}
+[2020-06-22 16:19:17.407] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/35/usr/share/code/resources/app/extensions/python/dist/pythonMain
+[2020-06-22 16:19:17.442] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.python","_lower":"ms-python.python"},"activationEvent":"onLanguage:python"}
+[2020-06-22 16:19:17.442] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/ms-python.python-2020.6.89148/out/client/extension
+[2020-06-22 16:19:18.056] [exthost] [info] ExtensionService#_doActivateExtension njpwerner.autodocstring {"startup":false,"extensionId":{"value":"njpwerner.autodocstring","_lower":"njpwerner.autodocstring"},"activationEvent":"onLanguage:python"}
+[2020-06-22 16:19:18.056] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/njpwerner.autodocstring-0.5.3/out/extension.js
+[2020-06-22 16:19:18.312] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode {"startup":false,"extensionId":{"value":"VisualStudioExptTeam.vscodeintellicode","_lower":"visualstudioexptteam.vscodeintellicode"},"activationEvent":"onLanguage:python"}
+[2020-06-22 16:19:18.312] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.8/dist/intellicode
+[2020-06-22 16:31:37.894] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.vscode-typescript-tslint-plugin {"startup":false,"extensionId":{"value":"ms-vscode.vscode-typescript-tslint-plugin","_lower":"ms-vscode.vscode-typescript-tslint-plugin"},"activationEvent":"onLanguage:javascript"}
+[2020-06-22 16:31:37.894] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/ms-vscode.vscode-typescript-tslint-plugin-1.2.3/out/index.js
+[2020-06-22 17:05:06.448] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2020-06-22 17:05:06.448] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/35/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2020-06-22 17:05:58.520] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2020-06-22 17:05:58.521] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/35/usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2020-06-22 17:38:56.379] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-22 17:38:56.382] [exthost] [error] Error: <syntax> TypeScript Server Error (3.9.4)
+Debug Failure. False expression: Expected line to be non-zero
+Error: Debug Failure. False expression: Expected line to be non-zero
+    at failIfInvalidLocation (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142416:22)
+    at ScriptInfo.positionToLineOffset (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142389:17)
+    at toProtocolTextSpan (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149600:35)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:68
+    at Array.map (<anonymous>)
+    at IOSession.Session.toLocationNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:39)
+    at IOSession.Session.getNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149141:32)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147984:61)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:88
+    at IOSession.Session.executeWithRequestId (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149517:28)
+    at IOSession.Session.executeCommand (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:33)
+    at IOSession.Session.onMessage (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149550:35)
+    at Interface.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150866:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:54700)
+	at e.dispatchResponse (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:226420)
+	at e.dispatchMessage (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:225338)
+	at /snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:224814
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at t.Reader.onLengthData (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233476)
+	at Socket.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233124)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-06-22 17:59:00.198] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-22 17:59:00.198] [exthost] [error] Error: <syntax> TypeScript Server Error (3.9.4)
+Debug Failure. False expression: Expected line to be non-zero
+Error: Debug Failure. False expression: Expected line to be non-zero
+    at failIfInvalidLocation (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142416:22)
+    at ScriptInfo.positionToLineOffset (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142389:17)
+    at toProtocolTextSpan (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149600:35)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:68
+    at Array.map (<anonymous>)
+    at IOSession.Session.toLocationNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:39)
+    at IOSession.Session.getNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149141:32)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147984:61)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:88
+    at IOSession.Session.executeWithRequestId (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149517:28)
+    at IOSession.Session.executeCommand (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:33)
+    at IOSession.Session.onMessage (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149550:35)
+    at Interface.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150866:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:54700)
+	at e.dispatchResponse (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:226420)
+	at e.dispatchMessage (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:225338)
+	at /snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:224814
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at t.Reader.onLengthData (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233476)
+	at Socket.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233124)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-06-22 18:15:15.686] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-22 18:15:15.686] [exthost] [error] Error: <syntax> TypeScript Server Error (3.9.4)
+Debug Failure. False expression: Expected line to be non-zero
+Error: Debug Failure. False expression: Expected line to be non-zero
+    at failIfInvalidLocation (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142416:22)
+    at ScriptInfo.positionToLineOffset (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142389:17)
+    at toProtocolTextSpan (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149600:35)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:68
+    at Array.map (<anonymous>)
+    at IOSession.Session.toLocationNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:39)
+    at IOSession.Session.getNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149141:32)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147984:61)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:88
+    at IOSession.Session.executeWithRequestId (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149517:28)
+    at IOSession.Session.executeCommand (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:33)
+    at IOSession.Session.onMessage (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149550:35)
+    at Interface.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150866:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:54700)
+	at e.dispatchResponse (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:226420)
+	at e.dispatchMessage (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:225338)
+	at /snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:224814
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at t.Reader.onLengthData (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233476)
+	at Socket.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233124)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-06-22 20:58:08.267] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-22 20:58:08.267] [exthost] [error] Error: <syntax> TypeScript Server Error (3.9.4)
+Debug Failure. False expression: Expected line to be non-zero
+Error: Debug Failure. False expression: Expected line to be non-zero
+    at failIfInvalidLocation (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142416:22)
+    at ScriptInfo.positionToLineOffset (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142389:17)
+    at toProtocolTextSpan (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149600:35)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:68
+    at Array.map (<anonymous>)
+    at IOSession.Session.toLocationNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:39)
+    at IOSession.Session.getNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149141:32)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147984:61)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:88
+    at IOSession.Session.executeWithRequestId (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149517:28)
+    at IOSession.Session.executeCommand (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:33)
+    at IOSession.Session.onMessage (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149550:35)
+    at Interface.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150866:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:54700)
+	at e.dispatchResponse (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:226420)
+	at e.dispatchMessage (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:225338)
+	at /snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:224814
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at t.Reader.onLengthData (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233476)
+	at Socket.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233124)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-06-22 21:30:28.320] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-22 21:30:28.320] [exthost] [error] Error: <syntax> TypeScript Server Error (3.9.4)
+Debug Failure. False expression: Expected line to be non-zero
+Error: Debug Failure. False expression: Expected line to be non-zero
+    at failIfInvalidLocation (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142416:22)
+    at ScriptInfo.positionToLineOffset (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142389:17)
+    at toProtocolTextSpan (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149600:35)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:68
+    at Array.map (<anonymous>)
+    at IOSession.Session.toLocationNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:39)
+    at IOSession.Session.getNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149141:32)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147984:61)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:88
+    at IOSession.Session.executeWithRequestId (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149517:28)
+    at IOSession.Session.executeCommand (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:33)
+    at IOSession.Session.onMessage (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149550:35)
+    at Interface.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150866:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:54700)
+	at e.dispatchResponse (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:226420)
+	at e.dispatchMessage (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:225338)
+	at /snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:224814
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at t.Reader.onLengthData (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233476)
+	at Socket.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233124)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-06-22 22:16:58.052] [exthost] [info] ExtensionService#_doActivateExtension vscode.image-preview {"startup":false,"extensionId":{"value":"vscode.image-preview","_lower":"vscode.image-preview"},"activationEvent":"onCustomEditor:imagePreview.previewEditor"}
+[2020-06-22 22:16:58.053] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/35/usr/share/code/resources/app/extensions/image-preview/dist/extension
+[2020-06-23 00:06:27.449] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-23 00:06:27.450] [exthost] [error] Error: <syntax> TypeScript Server Error (3.9.4)
+Debug Failure. False expression: Expected line to be non-zero
+Error: Debug Failure. False expression: Expected line to be non-zero
+    at failIfInvalidLocation (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142416:22)
+    at ScriptInfo.positionToLineOffset (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142389:17)
+    at toProtocolTextSpan (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149600:35)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:68
+    at Array.map (<anonymous>)
+    at IOSession.Session.toLocationNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:39)
+    at IOSession.Session.getNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149141:32)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147984:61)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:88
+    at IOSession.Session.executeWithRequestId (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149517:28)
+    at IOSession.Session.executeCommand (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:33)
+    at IOSession.Session.onMessage (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149550:35)
+    at Interface.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150866:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:54700)
+	at e.dispatchResponse (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:226420)
+	at e.dispatchMessage (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:225338)
+	at /snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:224814
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at t.Reader.onLengthData (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233476)
+	at Socket.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233124)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-06-23 00:07:39.532] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-23 00:07:39.533] [exthost] [error] Error: <syntax> TypeScript Server Error (3.9.4)
+Debug Failure. False expression: Expected line to be non-zero
+Error: Debug Failure. False expression: Expected line to be non-zero
+    at failIfInvalidLocation (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142416:22)
+    at ScriptInfo.positionToLineOffset (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142389:17)
+    at toProtocolTextSpan (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149600:35)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:68
+    at Array.map (<anonymous>)
+    at IOSession.Session.toLocationNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:39)
+    at IOSession.Session.getNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149141:32)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147984:61)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:88
+    at IOSession.Session.executeWithRequestId (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149517:28)
+    at IOSession.Session.executeCommand (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:33)
+    at IOSession.Session.onMessage (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149550:35)
+    at Interface.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150866:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:54700)
+	at e.dispatchResponse (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:226420)
+	at e.dispatchMessage (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:225338)
+	at /snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:224814
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at t.Reader.onLengthData (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233476)
+	at Socket.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233124)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-06-23 01:10:27.104] [exthost] [error] [DotJoshJohnson.xml] provider FAILED
+[2020-06-23 01:10:27.104] [exthost] [error] RangeError: Invalid count value
+	at String.repeat (<anonymous>)
+	at V2XmlFormatter._getIndent (/root/.vscode/extensions/dotjoshjohnson.xml-2.5.0/out/formatting/formatters/v2-xml-formatter.js:208:106)
+	at V2XmlFormatter.formatXml (/root/.vscode/extensions/dotjoshjohnson.xml-2.5.0/out/formatting/formatters/v2-xml-formatter.js:169:39)
+	at XmlFormattingEditProvider.provideDocumentRangeFormattingEdits (/root/.vscode/extensions/dotjoshjohnson.xml-2.5.0/out/formatting/xml-formatting-edit-provider.js:39:41)
+	at XmlFormattingEditProvider.provideDocumentFormattingEdits (/root/.vscode/extensions/dotjoshjohnson.xml-2.5.0/out/formatting/xml-formatting-edit-provider.js:12:21)
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:681:526
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:136
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:108)
+	at P.provideDocumentFormattingEdits (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:681:497)
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:701:285
+	at e._withAdapter (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:695:632)
+	at e.$provideDocumentFormattingEdits (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:701:263)
+	at e._doInvokeHandler (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:804:1013)
+	at e._invokeHandler (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:804:705)
+	at e._receiveRequest (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:803:293)
+	at e._receiveOneMessage (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:802:156)
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:800:416
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at v.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:274)
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:975:649
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at v.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:274)
+	at t.PersistentProtocol._receiveMessage (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:243:629)
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:824
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at p.acceptChunk (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:236:737)
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:236:89
+	at Socket.t (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:245:185)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-06-23 01:10:31.301] [exthost] [error] [DotJoshJohnson.xml] provider FAILED
+[2020-06-23 01:10:31.302] [exthost] [error] RangeError: Invalid count value
+	at String.repeat (<anonymous>)
+	at V2XmlFormatter._getIndent (/root/.vscode/extensions/dotjoshjohnson.xml-2.5.0/out/formatting/formatters/v2-xml-formatter.js:208:106)
+	at V2XmlFormatter.formatXml (/root/.vscode/extensions/dotjoshjohnson.xml-2.5.0/out/formatting/formatters/v2-xml-formatter.js:169:39)
+	at XmlFormattingEditProvider.provideDocumentRangeFormattingEdits (/root/.vscode/extensions/dotjoshjohnson.xml-2.5.0/out/formatting/xml-formatting-edit-provider.js:39:41)
+	at XmlFormattingEditProvider.provideDocumentFormattingEdits (/root/.vscode/extensions/dotjoshjohnson.xml-2.5.0/out/formatting/xml-formatting-edit-provider.js:12:21)
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:681:526
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:136
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:108)
+	at P.provideDocumentFormattingEdits (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:681:497)
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:701:285
+	at e._withAdapter (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:695:632)
+	at e.$provideDocumentFormattingEdits (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:701:263)
+	at e._doInvokeHandler (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:804:1013)
+	at e._invokeHandler (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:804:705)
+	at e._receiveRequest (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:803:293)
+	at e._receiveOneMessage (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:802:156)
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:800:416
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at v.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:274)
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:975:649
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at v.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:274)
+	at t.PersistentProtocol._receiveMessage (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:243:629)
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:824
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at p.acceptChunk (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:236:737)
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:236:89
+	at Socket.t (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:245:185)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-06-23 01:10:31.558] [exthost] [error] [DotJoshJohnson.xml] provider FAILED
+[2020-06-23 01:10:31.559] [exthost] [error] RangeError: Invalid count value
+	at String.repeat (<anonymous>)
+	at V2XmlFormatter._getIndent (/root/.vscode/extensions/dotjoshjohnson.xml-2.5.0/out/formatting/formatters/v2-xml-formatter.js:208:106)
+	at V2XmlFormatter.formatXml (/root/.vscode/extensions/dotjoshjohnson.xml-2.5.0/out/formatting/formatters/v2-xml-formatter.js:169:39)
+	at XmlFormattingEditProvider.provideDocumentRangeFormattingEdits (/root/.vscode/extensions/dotjoshjohnson.xml-2.5.0/out/formatting/xml-formatting-edit-provider.js:39:41)
+	at XmlFormattingEditProvider.provideDocumentFormattingEdits (/root/.vscode/extensions/dotjoshjohnson.xml-2.5.0/out/formatting/xml-formatting-edit-provider.js:12:21)
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:681:526
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:136
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:108)
+	at P.provideDocumentFormattingEdits (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:681:497)
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:701:285
+	at e._withAdapter (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:695:632)
+	at e.$provideDocumentFormattingEdits (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:701:263)
+	at e._doInvokeHandler (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:804:1013)
+	at e._invokeHandler (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:804:705)
+	at e._receiveRequest (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:803:293)
+	at e._receiveOneMessage (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:802:156)
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:800:416
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at v.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:274)
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:975:649
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at v.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:274)
+	at t.PersistentProtocol._receiveMessage (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:243:629)
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:824
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at p.acceptChunk (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:236:737)
+	at /snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:236:89
+	at Socket.t (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:245:185)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-06-23 02:28:14.792] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-23 02:28:14.792] [exthost] [error] Error: <syntax> TypeScript Server Error (3.9.4)
+Debug Failure. False expression: Expected line to be non-zero
+Error: Debug Failure. False expression: Expected line to be non-zero
+    at failIfInvalidLocation (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142416:22)
+    at ScriptInfo.positionToLineOffset (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142389:17)
+    at toProtocolTextSpan (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149600:35)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:68
+    at Array.map (<anonymous>)
+    at IOSession.Session.toLocationNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:39)
+    at IOSession.Session.getNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149141:32)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147984:61)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:88
+    at IOSession.Session.executeWithRequestId (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149517:28)
+    at IOSession.Session.executeCommand (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:33)
+    at IOSession.Session.onMessage (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149550:35)
+    at Interface.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150866:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:54700)
+	at e.dispatchResponse (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:226420)
+	at e.dispatchMessage (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:225338)
+	at /snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:224814
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at t.Reader.onLengthData (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233476)
+	at Socket.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233124)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-06-23 02:34:02.143] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-23 02:34:02.143] [exthost] [error] Error: <syntax> TypeScript Server Error (3.9.4)
+Debug Failure. False expression: Expected line to be non-zero
+Error: Debug Failure. False expression: Expected line to be non-zero
+    at failIfInvalidLocation (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142416:22)
+    at ScriptInfo.positionToLineOffset (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142389:17)
+    at toProtocolTextSpan (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149600:35)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:68
+    at Array.map (<anonymous>)
+    at IOSession.Session.toLocationNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:39)
+    at IOSession.Session.getNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149141:32)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147984:61)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:88
+    at IOSession.Session.executeWithRequestId (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149517:28)
+    at IOSession.Session.executeCommand (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:33)
+    at IOSession.Session.onMessage (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149550:35)
+    at Interface.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150866:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:54700)
+	at e.dispatchResponse (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:226420)
+	at e.dispatchMessage (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:225338)
+	at /snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:224814
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at t.Reader.onLengthData (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233476)
+	at Socket.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233124)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-06-23 02:34:10.297] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-23 02:34:10.297] [exthost] [error] Error: <syntax> TypeScript Server Error (3.9.4)
+Debug Failure. False expression: Expected line to be non-zero
+Error: Debug Failure. False expression: Expected line to be non-zero
+    at failIfInvalidLocation (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142416:22)
+    at ScriptInfo.positionToLineOffset (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142389:17)
+    at toProtocolTextSpan (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149600:35)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:68
+    at Array.map (<anonymous>)
+    at IOSession.Session.toLocationNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:39)
+    at IOSession.Session.getNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149141:32)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147984:61)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:88
+    at IOSession.Session.executeWithRequestId (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149517:28)
+    at IOSession.Session.executeCommand (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:33)
+    at IOSession.Session.onMessage (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149550:35)
+    at Interface.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150866:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:54700)
+	at e.dispatchResponse (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:226420)
+	at e.dispatchMessage (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:225338)
+	at /snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:224814
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at t.Reader.onLengthData (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233476)
+	at Socket.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233124)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-06-23 04:30:21.728] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-23 04:30:21.728] [exthost] [error] Error: <syntax> TypeScript Server Error (3.9.4)
+Debug Failure. False expression: Expected line to be non-zero
+Error: Debug Failure. False expression: Expected line to be non-zero
+    at failIfInvalidLocation (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142416:22)
+    at ScriptInfo.positionToLineOffset (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142389:17)
+    at toProtocolTextSpan (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149600:35)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:68
+    at Array.map (<anonymous>)
+    at IOSession.Session.toLocationNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149130:39)
+    at IOSession.Session.getNavigationTree (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149141:32)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:147984:61)
+    at /snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:88
+    at IOSession.Session.executeWithRequestId (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149517:28)
+    at IOSession.Session.executeCommand (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149526:33)
+    at IOSession.Session.onMessage (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149550:35)
+    at Interface.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150866:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:54700)
+	at e.dispatchResponse (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:226420)
+	at e.dispatchMessage (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:225338)
+	at /snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:224814
+	at e.fire (/snap/code/35/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at t.Reader.onLengthData (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233476)
+	at Socket.<anonymous> (/snap/code/35/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:233124)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)

@@ -1,0 +1,17 @@
+[Info  - 9:27:14 PM] Analysis cache path: /root/.cache/Microsoft/Python Language Server
+[Info  - 9:27:14 PM] Microsoft Python Language Server version 0.5.50.0
+[Info  - 9:27:14 PM] Workspace root: /odoo/odoo-server/addons/birdeye
+[Info  - 9:27:15 PM] GetCurrentSearchPaths /usr/bin/python3 
+[Info  - 9:27:15 PM] Interpreter search paths:
+[Info  - 9:27:15 PM]     /usr/lib/python3.8
+[Info  - 9:27:15 PM]     /usr/lib/python3.8/lib-dynload
+[Info  - 9:27:15 PM]     /root/.local/lib/python3.8/site-packages
+[Info  - 9:27:15 PM]     /usr/local/lib/python3.8/dist-packages
+[Info  - 9:27:15 PM]     /usr/lib/python3/dist-packages
+[Info  - 9:27:15 PM] User search paths:
+[Info  - 9:27:18 PM] Initializing for /usr/bin/python3
+[Info  - 9:27:18 PM] Analysis caching mode: None.
+[Info  - 9:46:36 PM] Analysis caching mode: None.
+[Info  - 9:46:36 PM] Analysis caching mode: None.
+[Info  - 9:46:37 PM] Analysis caching mode: None.
+[Info  - 9:46:37 PM] Analysis caching mode: None.

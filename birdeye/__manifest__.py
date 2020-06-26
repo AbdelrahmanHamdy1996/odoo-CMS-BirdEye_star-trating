@@ -27,10 +27,15 @@
     'data': [
         # 'security/ir.model.access.csv',
         # Load the snippets (building block code) when installing
+        #'views/birdeye.xml',
         'views/snippets.xml',
+        'views/google.xml',
+        'views/assets.xml',
+        'views/facebook.xml',
         # 'views/views.xml',
         # 'views/templates.xml',
     ],
+
     # only loaded in demonstration mode
     'demo': [
         'demo/demo.xml',

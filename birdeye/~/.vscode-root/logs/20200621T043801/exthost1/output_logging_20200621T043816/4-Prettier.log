@@ -1,0 +1,64 @@
+["INFO" - 4:38:16 AM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 4:38:16 AM] Extension Version: 5.1.0.
+["INFO" - 4:38:16 AM] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 4:38:16 AM] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 4:44:16 AM] Formatting /odoo/odoo-server/addons/birdeye/static/src/scss/main.scss
+["INFO" - 4:44:17 AM] Using ignore file (if present) at /odoo/odoo-server/addons/birdeye/.prettierignore
+["INFO" - 4:44:17 AM] Using bundled version of prettier.
+["INFO" - 4:44:17 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "scss"
+}
+["INFO" - 4:44:17 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:44:17 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/odoo/odoo-server/addons/birdeye/static/src/scss/main.scss",
+  "parser": "scss"
+}
+["INFO" - 4:44:17 AM] Formatting completed in 203.194244ms.

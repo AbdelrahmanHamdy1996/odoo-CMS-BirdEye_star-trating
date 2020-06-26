@@ -1,0 +1,96 @@
+[Info  - 4:35:06 PM] Analysis cache path: /root/.cache/Microsoft/Python Language Server
+[Info  - 4:35:06 PM] Microsoft Python Language Server version 0.5.50.0
+[Info  - 4:35:06 PM] Workspace root: /odoo/odoo-server/addons/birdeye
+[Info  - 4:35:09 PM] GetCurrentSearchPaths /usr/bin/python3 
+[Info  - 4:35:09 PM] Interpreter search paths:
+[Info  - 4:35:09 PM]     /usr/lib/python3.8
+[Info  - 4:35:09 PM]     /usr/lib/python3.8/lib-dynload
+[Info  - 4:35:09 PM]     /root/.local/lib/python3.8/site-packages
+[Info  - 4:35:09 PM]     /usr/local/lib/python3.8/dist-packages
+[Info  - 4:35:09 PM]     /usr/lib/python3/dist-packages
+[Info  - 4:35:09 PM] User search paths:
+[Info  - 4:35:12 PM] Initializing for /usr/bin/python3
+[Info  - 4:35:12 PM] Analysis caching mode: None.
+[Info  - 4:35:43 PM] Analysis caching mode: None.
+[Info  - 4:35:43 PM] Analysis caching mode: None.
+[Info  - 5:32:15 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 5:32:15 PM] Deep learning IntelliCode recommendations service returned in 124 millis
+[Info  - 5:32:25 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 5:32:25 PM] Deep learning IntelliCode recommendations service returned in 1 millis
+[Info  - 5:32:28 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 5:32:28 PM] Deep learning IntelliCode recommendations service returned in 1 millis
+[Info  - 5:32:31 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 5:32:31 PM] Deep learning IntelliCode recommendations service returned in 1 millis
+[Info  - 5:32:53 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 5:32:53 PM] Deep learning IntelliCode recommendations service returned in 1 millis
+[Info  - 6:05:33 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 6:05:34 PM] Deep learning IntelliCode recommendations service returned in 60 millis
+[Info  - 6:10:23 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 6:10:23 PM] Deep learning IntelliCode recommendations service returned in 1 millis
+[Info  - 6:10:26 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 6:10:26 PM] Deep learning IntelliCode recommendations service returned in 6 millis
+[Info  - 7:12:56 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Error - 7:12:56 PM] Exception in IntelliCode extension for Microsoft Python Language Server: System.OperationCanceledException: The operation was canceled.
+   at System.Threading.CancellationToken.ThrowOperationCanceledException()
+   at Microsoft.PythonTools.Analysis.Pythia.PythiaService.GetRecommendationsAsync(IDocumentAnalysis analysis, CompletionList completionList, SourceLocation location, Int32 recommendataionLimit, CancellationToken cancellationToken)
+   at Microsoft.PythonTools.Analysis.Pythia.LanguageServerExtension.HandleCompletionAsync(IDocumentAnalysis analysis, SourceLocation location, CompletionList completionList, CancellationToken token)
+[Error - 7:12:56 PM] For more information about IntelliCode deep learning model, see https://aka.ms/intellicode/vscode-experiments
+[Info  - 7:12:58 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 7:12:58 PM] Deep learning IntelliCode recommendations service returned in 2 millis
+[Info  - 7:13:03 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 7:13:03 PM] Deep learning IntelliCode recommendations service returned in 1 millis
+[Info  - 7:13:10 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 7:13:10 PM] Deep learning IntelliCode recommendations service returned in 3 millis
+[Info  - 7:13:53 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 7:13:53 PM] Deep learning IntelliCode recommendations service returned in 2 millis
+[Info  - 7:13:53 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 7:13:53 PM] Deep learning IntelliCode recommendations service returned in 1 millis
+[Info  - 7:13:55 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 7:13:55 PM] Deep learning IntelliCode recommendations service returned in 0 millis
+[Info  - 7:13:58 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 7:13:58 PM] Deep learning IntelliCode recommendations service returned in 1 millis
+[Info  - 7:14:02 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 7:14:02 PM] Deep learning IntelliCode recommendations service returned in 1 millis
+[Info  - 7:14:09 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 7:14:09 PM] Deep learning IntelliCode recommendations service returned in 1 millis
+[Info  - 7:14:10 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 7:14:10 PM] Deep learning IntelliCode recommendations service returned in 5 millis
+[Info  - 7:14:15 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 7:14:15 PM] Deep learning IntelliCode recommendations service returned in 1 millis
+[Info  - 7:14:15 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 7:14:15 PM] Deep learning IntelliCode recommendations service returned in 1 millis
+[Info  - 8:17:32 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Error - 8:17:32 PM] Exception in IntelliCode extension for Microsoft Python Language Server: System.OperationCanceledException: The operation was canceled.
+   at System.Threading.CancellationToken.ThrowOperationCanceledException()
+   at Microsoft.PythonTools.Analysis.Pythia.PythiaService.GetRecommendationsAsync(IDocumentAnalysis analysis, CompletionList completionList, SourceLocation location, Int32 recommendataionLimit, CancellationToken cancellationToken)
+   at Microsoft.PythonTools.Analysis.Pythia.LanguageServerExtension.HandleCompletionAsync(IDocumentAnalysis analysis, SourceLocation location, CompletionList completionList, CancellationToken token)
+[Error - 8:17:32 PM] For more information about IntelliCode deep learning model, see https://aka.ms/intellicode/vscode-experiments
+[Info  - 8:17:36 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 8:17:36 PM] Deep learning IntelliCode recommendations service returned in 1 millis
+[Info  - 8:28:55 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 8:28:55 PM] Deep learning IntelliCode recommendations service returned in 1 millis
+[Error - 8:45:45 PM] Exception in IntelliCode extension for Microsoft Python Language Server: System.OperationCanceledException: The operation was canceled.
+   at System.Threading.CancellationToken.ThrowOperationCanceledException()
+   at Microsoft.PythonTools.Analysis.Pythia.PythiaService.GetRecommendationsAsync(IDocumentAnalysis analysis, CompletionList completionList, SourceLocation location, Int32 recommendataionLimit, CancellationToken cancellationToken)
+   at Microsoft.PythonTools.Analysis.Pythia.LanguageServerExtension.HandleCompletionAsync(IDocumentAnalysis analysis, SourceLocation location, CompletionList completionList, CancellationToken token)
+[Error - 8:45:45 PM] For more information about IntelliCode deep learning model, see https://aka.ms/intellicode/vscode-experiments
+[Info  - 8:45:45 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 8:45:45 PM] Deep learning IntelliCode recommendations service returned in 69 millis
+[Info  - 8:45:59 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 8:45:59 PM] Deep learning IntelliCode recommendations service returned in 1 millis
+[Info  - 8:45:59 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 8:45:59 PM] Deep learning IntelliCode recommendations service returned in 40 millis
+[Info  - 8:46:00 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 8:46:00 PM] Deep learning IntelliCode recommendations service returned in 1 millis
+[Info  - 8:55:58 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 8:55:58 PM] Deep learning IntelliCode recommendations service returned in 0 millis
+[Info  - 8:56:00 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 8:56:00 PM] Deep learning IntelliCode recommendations service returned in 2 millis
+[Info  - 8:56:12 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 8:56:12 PM] Deep learning IntelliCode recommendations service returned in 1 millis
+[Info  - 9:06:26 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 9:06:26 PM] Deep learning IntelliCode recommendations service returned in 20 millis
+[Info  - 9:06:29 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 9:06:29 PM] Deep learning IntelliCode recommendations service returned in 2 millis
+[Info  - 9:06:37 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 9:06:37 PM] Deep learning IntelliCode recommendations service returned in 1 millis

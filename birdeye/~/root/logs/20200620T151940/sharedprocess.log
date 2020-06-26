@@ -1,0 +1,2 @@
+[2020-06-20 15:19:44.475] [sharedprocess] [info] main {"machineId":"bd1a23a08c7e6ea9cb08b92fdbe055df39a2eb80b36b02e8c0ec16519b31ff09","windowId":2}
+[2020-06-20 15:19:44.675] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/odoo/odoo-server/addons/birdeye/~/root/User/snippets'
